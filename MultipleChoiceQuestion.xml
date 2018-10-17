@@ -27,5 +27,5 @@
 		</feedback>
 	</answer>
 	<shuffleanswers>1</shuffleanswers>
-	<single>true</single>
+	<single>false</single>
 </question>
